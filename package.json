@@ -1,0 +1,29 @@
+{
+  "name": "18-forkify",
+  "version": "1.0.0",
+  "description": "ForkifyApp",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Ankit kaushik",
+  "license": "ISC",
+  "dependencies": {
+    "config.js": "^0.1.0",
+    "core-js": "^3.6.5",
+    "fracty": "^1.0.9",
+    "i": "^0.3.7",
+    "model.js": "0.0.1",
+    "npm": "^8.3.0",
+    "regenerator-runtime": "^0.13.9",
+    "v": "^0.3.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "1.12.5",
+    "sass": "1.45.0"
+  },
+  "browserslist": [
+    "last 1 Chrome versions"
+  ]
+}
